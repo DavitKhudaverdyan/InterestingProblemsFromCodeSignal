@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterestingProblemsFromCode
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FromCodeSignal.StringsRearangement", "FromCodeSignal.StringsRearangement\FromCodeSignal.StringsRearangement.csproj", "{F1CF792F-87BC-4A75-BE7D-2E4395B14139}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FromCodeSignal.SquareDigitsSequence", "FromCodeSignal.SquareDigitsSequence\FromCodeSignal.SquareDigitsSequence.csproj", "{0D75CBD7-3FC7-4199-8154-346D8F2A30DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F1CF792F-87BC-4A75-BE7D-2E4395B14139}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1CF792F-87BC-4A75-BE7D-2E4395B14139}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1CF792F-87BC-4A75-BE7D-2E4395B14139}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D75CBD7-3FC7-4199-8154-346D8F2A30DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D75CBD7-3FC7-4199-8154-346D8F2A30DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D75CBD7-3FC7-4199-8154-346D8F2A30DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D75CBD7-3FC7-4199-8154-346D8F2A30DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
