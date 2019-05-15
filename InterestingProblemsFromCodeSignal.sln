@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FromCodeSignal.StringsReara
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FromCodeSignal.SquareDigitsSequence", "FromCodeSignal.SquareDigitsSequence\FromCodeSignal.SquareDigitsSequence.csproj", "{0D75CBD7-3FC7-4199-8154-346D8F2A30DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FromCodeSignal.PagesNumberingWithInk", "FromCodeSignal.PagesNumberingWithInk\FromCodeSignal.PagesNumberingWithInk.csproj", "{EA515CCB-FCE5-4847-A41F-B76C5000395E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{0D75CBD7-3FC7-4199-8154-346D8F2A30DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D75CBD7-3FC7-4199-8154-346D8F2A30DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D75CBD7-3FC7-4199-8154-346D8F2A30DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA515CCB-FCE5-4847-A41F-B76C5000395E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA515CCB-FCE5-4847-A41F-B76C5000395E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA515CCB-FCE5-4847-A41F-B76C5000395E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA515CCB-FCE5-4847-A41F-B76C5000395E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
