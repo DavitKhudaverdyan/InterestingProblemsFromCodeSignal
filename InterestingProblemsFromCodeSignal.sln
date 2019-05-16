@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FromCodeSignal.SquareDigits
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FromCodeSignal.PagesNumberingWithInk", "FromCodeSignal.PagesNumberingWithInk\FromCodeSignal.PagesNumberingWithInk.csproj", "{EA515CCB-FCE5-4847-A41F-B76C5000395E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FromCodeSignal.ComfortableNumbers", "FromCodeSignal.ComfortableNumbers\FromCodeSignal.ComfortableNumbers.csproj", "{50B6495D-1627-42CE-A892-F683B3E7D76F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{EA515CCB-FCE5-4847-A41F-B76C5000395E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA515CCB-FCE5-4847-A41F-B76C5000395E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA515CCB-FCE5-4847-A41F-B76C5000395E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50B6495D-1627-42CE-A892-F683B3E7D76F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50B6495D-1627-42CE-A892-F683B3E7D76F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50B6495D-1627-42CE-A892-F683B3E7D76F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50B6495D-1627-42CE-A892-F683B3E7D76F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
