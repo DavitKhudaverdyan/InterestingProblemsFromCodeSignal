@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FromCodeSignal.PagesNumberi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FromCodeSignal.ComfortableNumbers", "FromCodeSignal.ComfortableNumbers\FromCodeSignal.ComfortableNumbers.csproj", "{50B6495D-1627-42CE-A892-F683B3E7D76F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FromCodeSignal.WeakNumbers", "FromCodeSignal.WeakNumbers\FromCodeSignal.WeakNumbers.csproj", "{15424434-6761-4868-8D88-9FE18F7496F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{50B6495D-1627-42CE-A892-F683B3E7D76F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50B6495D-1627-42CE-A892-F683B3E7D76F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50B6495D-1627-42CE-A892-F683B3E7D76F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15424434-6761-4868-8D88-9FE18F7496F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15424434-6761-4868-8D88-9FE18F7496F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15424434-6761-4868-8D88-9FE18F7496F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15424434-6761-4868-8D88-9FE18F7496F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
