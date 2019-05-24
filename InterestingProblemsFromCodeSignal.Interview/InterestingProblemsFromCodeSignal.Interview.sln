@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.28803.452
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FromCodeSignal.Interview.Arrays.firstDuplicate", "..\FromCodeSignal.Interview.Arrays.firstDuplicate\FromCodeSignal.Interview.Arrays.firstDuplicate.csproj", "{20F82258-D292-4D68-A96E-81D29B6EF7BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FromCodeSignal.Interview.Arrays.firstNotRepeatedCharachter", "..\FromCodeSignal.Interview.Arrays.firstNotRepeatedCharachter\FromCodeSignal.Interview.Arrays.firstNotRepeatedCharachter.csproj", "{CFD2F287-1D71-4B9B-AD3C-29317A949B22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{20F82258-D292-4D68-A96E-81D29B6EF7BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20F82258-D292-4D68-A96E-81D29B6EF7BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20F82258-D292-4D68-A96E-81D29B6EF7BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFD2F287-1D71-4B9B-AD3C-29317A949B22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFD2F287-1D71-4B9B-AD3C-29317A949B22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFD2F287-1D71-4B9B-AD3C-29317A949B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFD2F287-1D71-4B9B-AD3C-29317A949B22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
